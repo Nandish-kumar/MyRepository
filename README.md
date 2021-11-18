@@ -1,2 +1,12 @@
-# MyRepository
-My properties of telecom application
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.username=root
+spring.datasource.password=Nandu
+
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+
+
+spring.main.banner-mode=off
+
+
+logging.level.root=info
